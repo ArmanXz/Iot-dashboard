@@ -1,0 +1,25 @@
+{
+  "name": "Luminous Dashboard",
+  "short_name": "Luminous",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/external-global-made-by-made/48/1A1A1A/external-Light-ui-and-ux-global-made-by-made-2.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/external-global-made-by-made/96/1A1A1A/external-Light-ui-and-ux-global-made-by-made-2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/external-global-made-by-made/100/1A1A1A/external-Light-ui-and-ux-global-made-by-made-2.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
